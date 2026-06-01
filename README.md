@@ -1,6 +1,6 @@
-# File Management System in C
+# File Management System in C++
 
-This project is a simple file management system built using the C programming language.
+This project is a simple file management system built using the C++ programming language.
 
 ## Features
 - Create files and directories
