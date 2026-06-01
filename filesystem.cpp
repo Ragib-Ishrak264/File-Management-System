@@ -61,6 +61,10 @@ class FileSystem
         Home = new Folder{"Home", nullptr};
         current = Home;
     }
+    void deleteNode()
+    {
+
+    }
 };
 int main()
 {
